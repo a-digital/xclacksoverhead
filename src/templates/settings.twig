@@ -1,0 +1,31 @@
+{# @var craft \craft\web\twig\variables\CraftVariable #}
+{#
+/**
+ * X-Clacks-Overhead plugin for Craft CMS 3.x
+ *
+ * X-Clacks-Overhead Settings.twig
+ *
+ * @author    Laura & Mark
+ * @copyright Copyright (c) 2018 Laura & Mark
+ * @link      https://adigital.agency/
+ * @package   XClacksOverhead
+ * @since     1.0.0
+ */
+#}
+
+{% import "_includes/forms" as forms %}
+
+{{ forms.editableTableField({
+    label: 'Clacks',
+    instructions: 'Enter any additional clacks headers you would like to send in this table.',
+    id: 'clacks',
+    name: 'clacks',
+    cols: [
+      {
+        'heading': 'Clack Message',
+        'info': 'Enter your addition clack message content in this column.',
+        'type': 'singleline'
+      }
+    ],
+    rows: settings['clacks']
+}) }}

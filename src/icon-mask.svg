@@ -1,0 +1,8 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 718.75 1000">
+  <title>icon-mask</title>
+  <path d="M0,0V1000H718.75V0ZM328.12,953.12H46.87V671.87H328.12Zm0-312.5H46.87V359.37H328.12Zm0-312.5H46.87V46.87H328.12Zm343.75,625H390.62V671.87H671.87Zm0-312.5H390.62V359.37H671.87Zm0-312.5H390.62V46.87H671.87Z"/>
+  <circle cx="531.25" cy="187.5" r="109.37"/>
+  <circle cx="187.5" cy="500" r="109.38"/>
+  <circle cx="187.5" cy="812.5" r="109.37"/>
+  <circle cx="531.25" cy="812.5" r="109.37"/>
+</svg>

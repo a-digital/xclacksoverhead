@@ -1,0 +1,40 @@
+{
+    "name": "adigital/x-clacks-overhead",
+    "description": "X-Clacks-Overhead is a non-standardised HTTP header based upon the fictional work of the late, great, Sir Terry Pratchett. This plugin enables you to add the pre-requisite 'GNU Terry Pratchett' as well as other custom X-Clacks-Overhead headers to Craft.",
+    "type": "craft-plugin",
+    "version": "1.0.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "x-clacks-overhead"
+    ],
+    "support": {
+        "docs": "https://github.com/a-digital/xclacksoverhead/blob/master/README.md",
+        "issues": "https://github.com/a-digital/xclacksoverhead/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laura & Mark",
+            "homepage": "https://adigital.agency/"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0-RC1"
+    },
+    "autoload": {
+        "psr-4": {
+          "adigital\\xclacksoverhead\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "X-Clacks-Overhead",
+        "handle": "x-clacks-overhead",
+        "hasCpSettings": true,
+        "hasCpSection": false,
+        "changelogUrl": "https://github.com/a-digital/xclacksoverhead/x-clacks-overhead/master/CHANGELOG.md",
+        "class": "adigital\\xclacksoverhead\\XClacksOverhead"
+    }
+}

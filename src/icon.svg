@@ -1,0 +1,35 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 718.75 1000">
+  <defs>
+    <style>
+      .adig-clacks-1 {
+        fill: #835734;
+      }
+
+      .adig-clacks-2 {
+        fill: #43372a;
+      }
+
+      .adig-clacks-3 {
+        fill: #554852;
+      }
+
+      .adig-clacks-4 {
+        fill: #fcfcee;
+      }
+    </style>
+  </defs>
+  <title>icon</title>
+  <rect class="adig-clacks-1" width="718.75" height="1000"/>
+  <rect class="adig-clacks-2" x="390.62" y="671.87" width="281.25" height="281.25"/>
+  <rect class="adig-clacks-2" x="46.87" y="671.87" width="281.25" height="281.25"/>
+  <rect class="adig-clacks-2" x="390.62" y="359.37" width="281.25" height="281.25"/>
+  <rect class="adig-clacks-2" x="46.87" y="359.37" width="281.25" height="281.25"/>
+  <rect class="adig-clacks-2" x="390.62" y="46.87" width="281.25" height="281.25"/>
+  <rect class="adig-clacks-2" x="46.87" y="46.87" width="281.25" height="281.25"/>
+  <circle class="adig-clacks-3" cx="187.5" cy="187.5" r="109.37"/>
+  <circle class="adig-clacks-4" cx="531.25" cy="187.5" r="109.37"/>
+  <circle class="adig-clacks-4" cx="187.5" cy="500" r="109.38"/>
+  <circle class="adig-clacks-3" cx="531.25" cy="500" r="109.38"/>
+  <circle class="adig-clacks-4" cx="187.5" cy="812.5" r="109.37"/>
+  <circle class="adig-clacks-4" cx="531.25" cy="812.5" r="109.37"/>
+</svg>
