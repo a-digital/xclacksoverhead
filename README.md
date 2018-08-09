@@ -2,8 +2,6 @@
 
 X-Clacks-Overhead is a non-standardised HTTP header based upon the fictional work of the late, great, Sir Terry Pratchett. This plugin enables you to add the pre-requisite 'GNU Terry Pratchett' as well as other custom X-Clacks-Overhead headers to Craft.
 
-![Screenshot](resources/img/plugin-logo.png)
-
 ## Requirements
 
 This plugin requires Craft CMS 3.0.0-beta.23 or later.
